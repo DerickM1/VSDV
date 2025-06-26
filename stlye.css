@@ -1,0 +1,19 @@
+h1{
+color: rgba(0, 0, 255, 0.384)
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+  }
+
+p{
+  color:darkred
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 24px; 
+  } 
+
+body{
+  background: greenyellow;
+}
+img{
+  width: 200px;
+  height: 180px;
+}
